@@ -1,4 +1,4 @@
-Now currently, light turn off by main.
+Now currently, light turn off by main..
 
 Branch issue1
 Branch issue1-1
